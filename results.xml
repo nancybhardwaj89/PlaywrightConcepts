@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="18.867667999997735">
+<testsuite name="Browsercontext.spec.ts" timestamp="2025-12-04T12:18:37.040Z" hostname="chromium" tests="1" failures="0" skipped="0" time="15.324" errors="0">
+<testcase name="check page title" classname="Browsercontext.spec.ts" time="15.324">
+</testcase>
+</testsuite>
+</testsuites>
