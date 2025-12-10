@@ -13,5 +13,7 @@ test('Broswer Back & Forward Test', async ({ page }) => {
     console.log(await page.title());
     await page.goBack();
     await page.waitForTimeout(5000);
+    //To Refresh the page
+    await page.reload();
 }
 )
